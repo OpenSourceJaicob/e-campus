@@ -1,0 +1,12 @@
+{{
+  "name": "eaglercraft-lan-relay",
+  "version": "1.0.0",
+  "description": "Private sanford LAN Relay for JaicobLand Network",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
